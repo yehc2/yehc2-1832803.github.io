@@ -3,9 +3,9 @@ body {
 }
 
 p {
-	font-weight: bold;
 	color: white;
 	font-family: Arial;	
+	font-weight: bold;
 }
 
 #Header h1 {
@@ -46,6 +46,7 @@ h3 {
 }
 
 #LeftNav ul {
+	color: white; 
 	list-style-type: none;
 	padding-left: 0px;
 }
@@ -80,17 +81,10 @@ ul{
 
 }
 
-#LeftNav h3 {
-	color: #FFBC00;
-	font-size: 40px; 
-	font-family: "Passion One";
-	margin-bottom: 0px;
-
+.titles{
 }
-
-#Footer ul{
-	list-style-type: none;
-	padding-left: 0px;
-
+#bow{
+	color: #FFBC00; 
+	font-weight: bold;
+	font-size: 20px; 
 }
-
